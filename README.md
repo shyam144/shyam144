@@ -38,7 +38,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav59580&show_icons=true&hide_border=false&layout=compact)![Github stats](https://github-readme-stats.vercel.app/api?username=Sourav59580&show_icons=true&hide_border=false)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyam144&show_icons=true&hide_border=false&layout=compact)![Github stats](https://github-readme-stats.vercel.app/api?username=shyam144&show_icons=true&hide_border=false)    
 
 - 👋 Hi, I’m @shyam144
 - 👀 I’m interested in python & web development
